@@ -18,7 +18,7 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 
 ## Ablation study on the second DARM
-
+### The second DARM is removed from the proposed fusion model to investiate its significance 
 
 ## Computational efficiency comparisons
 
