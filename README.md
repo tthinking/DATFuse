@@ -16,5 +16,5 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 ## Computational efficiency comparisons
 
-### Running Time of different methods (unit: seconds)
+### Running time of different methods (unit: seconds)
 
