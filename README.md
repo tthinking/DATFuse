@@ -30,10 +30,10 @@ DATFuse is under minor revision. The code will be released once accepted.
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
-| Method | TNO Dataset |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Method | TNO Dataset | RoadScene Dataset |
+| --- | --- | --- |
+| `git status` | List all *new or modified* files | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged | Show file differences that **haven't been** staged |
 
 
 |:Method:|	:TNO Dataset:|:RoadScene Dataset:|
