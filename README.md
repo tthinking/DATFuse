@@ -32,7 +32,7 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 | Method | TNO Dataset | RoadScene Dataset |
 | --- | --- | --- |
-| `git status` | List all *new or modified* files | List all *new or modified* files |
+| MDLatLRR | 26.0727 | 11.7310 |
 | `git diff` | Show file differences that **haven't been** staged | Show file differences that **haven't been** staged |
 
 
