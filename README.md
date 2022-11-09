@@ -18,7 +18,7 @@ DATFuse is under minor revision. The code will be released once accepted.
 ![Image text](https://github.com/tthinking/DATFuse/blob/main/imgs/ablationTRM.jpg)
 
 ## Ablation study on the second DARM
-
+![Image text](https://github.com/tthinking/DATFuse/blob/main/imgs/woSecondDARM.jpg）
 
 ## Computational efficiency comparisons
 
