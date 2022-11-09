@@ -25,27 +25,18 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 ### Running time of different methods (unit: seconds)
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+
 
 | Method | TNO Dataset | RoadScene Dataset |
 | :---: | :---: | :---: |
-| MDLatLRR | :26.0727: | :11.7310: |
-| `git diff` | Show file differences that **haven't been** staged | Show file differences that **haven't been** staged |
-
-
-|:Method:|	:TNO Dataset:|:RoadScene Dataset:|
-| ------------- | ------------- |
-|:MDLatLRR:|	:	26.0727 :|:	11.7310 :|
-|:AUIF:|	:	0.1119 :|:	0.0726 :|
-|:DenseFuse:|	:	0.5663 :|:	0.3190 :|
-|:FusionGAN:|	:	2.6796 :|:	1.1442 :|
-|:GANMcC:|	:	5.6752 :|:	2.3813 :|
-|:RFN_Nest:|	:	2.3096:|: 	0.9423 :|
-|:CSF:|	:	10.3311 :|:	5.5395 :|
-|:MFEIF:|	:	0.0793 	:|:0.0494 :|
-|:PPTFusion:|	:	1.4150 :|:	0.8656 :|
-|:SwinFuse:|	:	3.2687 :|:	1.6478 :|
-|:DATFuse:|	:0.0257 :|:	0.0141:|
+| MDLatLRR | 26.0727 | 11.7310 |
+|AUIF|	0.1119 |	0.0726 |
+|DenseFuse|	0.5663 |	0.3190 |
+|FusionGAN|		2.6796 |	1.1442 |
+|GANMcC|	5.6752 |	2.3813 |
+|RFN_Nest|	2.3096|	0.9423 |
+|CSF|	10.3311 |5.5395 |
+|MFEIF|	0.0793 	|0.0494 |
+|PPTFusion|		1.4150 |0.8656 |
+|SwinFuse|	3.2687 |	1.6478 |
+|DATFuse|	0.0257 |	0.0141|
