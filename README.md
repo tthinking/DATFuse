@@ -23,7 +23,7 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 ## Computational efficiency comparisons
 
-### Running time of different methods (unit: seconds)
+### Average running time for generating a fusion immage (unit: seconds)
 
 
 
