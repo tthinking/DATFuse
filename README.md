@@ -25,6 +25,12 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 ### Running time of different methods (unit: seconds)
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 |:Method:|	:	TNO Dataset:|:	RoadScene Dataset:|
 | ------------- | ------------- |
 |:MDLatLRR:|	:	26.0727 :|:	11.7310 :|
