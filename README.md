@@ -1,5 +1,9 @@
 # DATFuse
-DATFuse is under minor revision. The code will be released once accepted.
+DATFuse is under minor revision. 
+
+At present, testing code, trained model, some source images and fusion results, and comparison results are uploaded. 
+
+The training code will be released once accepted.
 
 
 ## Comparison with SOTA methods
