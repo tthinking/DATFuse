@@ -2,6 +2,15 @@
 DATFuse is under minor revision. The code will be released once accepted.
 
 
+## Comparison with SOTA methods
+
+### Fusion results on TNO dataset
+![Image text](https://github.com/tthinking/DATFuse/blob/main/imgs/fig3.jpg)
+
+### Fusion results on RoadScene dataset
+![Image text](https://github.com/tthinking/DATFuse/blob/main/imgs/fig4.jpg)
+
+
 ## Impact of weight parameters in the loss function
 
 ### Impact of weight parameter α on fusion performance with λ and γ ﬁxed as 100 and 10, respectively. 
@@ -12,6 +21,9 @@ DATFuse is under minor revision. The code will be released once accepted.
 
 ### Impact of weight parameter γ on fusion performance with α and λ ﬁxed as 1 and 100, respectively.
 ![Image text](https://github.com/tthinking/DATFuse/blob/main/imgs/gamma.jpg)
+
+## Ablation study on network structure
+![Image text](https://github.com/tthinking/DATFuse/blob/main/imgs/fig6.jpg)
 
 
 ## Ablation study on the number of TRMs
