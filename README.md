@@ -53,3 +53,26 @@ This is the official implementation of the DATFuse model proposed in the paper (
 |PPTFusion|		1.4150 |0.8656 |
 |SwinFuse|	3.2687 |	1.6478 |
 |DATFuse|	0.0257 |	0.0141|
+
+# Cite the paper
+If this work is helpful to you, please cite it as:</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2023_DATFuse,
+  author={Tang, Wei and He, Fazhi and Liu, Yu and Duan, Yansong and Si, Tongzhen},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TCSVT.2023.3234340}}"><pre class="notranslate"><code>@ARTICLE{Tang_2023_DATFuse,
+  author={Tang, Wei and He, Fazhi and Liu, Yu and Duan, Yansong and Si, Tongzhen},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TCSVT.2023.3234340}}
+</code></pre></div>
+
+If you have any questions,  feel free to contact me (<a href="mailto:weitang2021@whu.edu.cn">weitang2021@whu.edu.cn</a>).
