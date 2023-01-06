@@ -1,9 +1,6 @@
-# DATFuse
-DATFuse is under minor revision. 
+# DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer (IEEE TCSVT 2023)
 
-At present, testing code, trained model, some source images and fusion results, and comparison results are uploaded. 
-
-The training code will be released once accepted.
+This is the official implementation of the DATFuse model proposed in the paper ([DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer](https://ieeexplore.ieee.org/document/10006826)) with Pytorch.
 
 
 ## Comparison with SOTA methods
