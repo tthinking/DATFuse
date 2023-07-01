@@ -61,17 +61,17 @@ If this work is helpful to you, please cite it as:</p>
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={33},
+  number={7},
+  pages={3159-3172},
   doi={10.1109/TCSVT.2023.3234340}}"><pre class="notranslate"><code>@ARTICLE{Tang_2023_DATFuse,
   author={Tang, Wei and He, Fazhi and Liu, Yu and Duan, Yansong and Si, Tongzhen},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={33},
+  number={7},
+  pages={3159-3172},
   doi={10.1109/TCSVT.2023.3234340}}
 </code></pre></div>
 
